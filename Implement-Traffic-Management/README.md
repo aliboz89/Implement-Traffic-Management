@@ -4,4 +4,3 @@ Task 3: Test transitivity of virtual network peering
 Task 4: Configure routing in the hub and spoke topology
 Task 5: Implement Azure Load Balancer
 Task 6: Implement Azure Application Gateway
-Estimated timing: 60 minute
